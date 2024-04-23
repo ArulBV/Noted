@@ -22,7 +22,7 @@
 							</div>
 							<div class="input-field col s12">
 								<i class="material-icons prefix">event_note</i>
-								<textarea id="note_desc" class="materialize-textarea" placeholder="Enter Description"
+								<textarea id="note_desc" class="materialize-textarea" placeholder="Note Description"
 									v-model="noteDesc"></textarea>
 							</div>
 						</div>
