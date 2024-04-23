@@ -1,0 +1,66 @@
+.pad5 {
+  padding: 5px !important;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.card {
+  top: 3px;
+  box-shadow: 0 0 0 2px blueviolet !important;
+}
+
+.card .card-content {
+  padding: 12px !important; 
+}
+
+.card .card-action {
+  padding: 8px 16px !important;
+}
+
+.navbar {
+  background-color: blueviolet;
+  color: #fff;
+}
+
+.nav-list-items {
+  padding: 0 15px;
+}
+
+.nav-list-items :hover {
+  background-color: #fff;
+  color: blueviolet;
+}
+
+.brand-logo {
+  left: 10px;
+}
+
+.nav-logo {
+  position: relative;
+  top: 4px;
+  width: 30px;
+}
+
+.add-icon {
+  background: blueviolet !important;
+}
+
+.edit-icon {
+  color: grey;
+  right: 8px;
+  position: relative;
+}
+
+.delete-icon {
+  color: red;
+}
+
+.modal .modal-content {
+  padding: 16px !important;
+}
