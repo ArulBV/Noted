@@ -10,11 +10,6 @@
 
 <script>
 export default {
-	name: 'NavBar',
-	data: function () {
-		return {
-			navList: ['Home']
-		}
-	}
+	name: 'NavBar'
 }
 </script>
